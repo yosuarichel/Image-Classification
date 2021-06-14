@@ -9,3 +9,6 @@
 * Menggunakan Image Augmentation,ImageDataGenerator dan Sequential Model
 * Akurasi dari model harus diatas 85% dengan pelatihan model tidak lebih dari 30 menit
 * Harus bisa memprediksi gambar yang sudah diupload
+
+Author: Yosua Richel
+Completed At: 14 Juni 2021
